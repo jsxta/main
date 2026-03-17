@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:ManyLinesEditor/app.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:ManyLinesEditor/backend.git
